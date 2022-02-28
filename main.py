@@ -4,7 +4,7 @@ from config import open_weather
 # обращение к телепорту
 from telebot import types
 
-TOKEN = '5203866796:AAGCC8E0YlMO-AllwGzNrlsugXUKjtFX5do'
+TOKEN = 'xxx'
 bot = telebot.TeleBot(TOKEN)
 import requests
 from pprint import pprint
