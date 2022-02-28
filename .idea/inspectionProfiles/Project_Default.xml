@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="conf_parser.BEGIN" />
+          <option value="conf_parser.END" />
+          <option value="conf_parser.SEMICOL" />
+          <option value="conf_parser.NAME" />
+          <option value="conf_parser._" />
+          <option value="conf_parser.IKBO" />
+          <option value="conf_parser.ID" />
+          <option value="conf_parser.NUMBER" />
+          <option value="conf_parser.PLUS" />
+          <option value="conf_parser.MINUS" />
+          <option value="conf_parser.TIMES" />
+          <option value="conf_parser.RPAREN" />
+          <option value="conf_parser.LPAREN" />
+          <option value="conf_parser.ASSIGN" />
+          <option value="conf_parser.DIVIDE" />
+          <option value="conf_parser.STRING" />
+          <option value="conf_parser.GROUP" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
